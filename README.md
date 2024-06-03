@@ -22,6 +22,13 @@ ChatGPT：
 
 - prompts aprendidos no curso Fundamentos de IA para Devs
 
+## ✨ Como foi feito ?
+
+- Roteiro gerado via chatgpt
+- Audio gerado pela elevenLabs
+- Midjourney para gerar capas
+- Capcut para tratar aúdio e adicionar sons de fundo
+
 ## 🛠️ Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material conforme aula na [DIO](https://dio.me).
