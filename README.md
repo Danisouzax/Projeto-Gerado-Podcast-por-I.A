@@ -15,7 +15,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título criativo para PodCats ChatBot                                                                                                                                                                                                    |
+|  título  | Educação Libertadora: IA em Ação                                                                                                                                                                                                 |
 | conteúdo | Faça um Roteiro para o Podcast, com foco em IA e Educação, de acordo com as regras a baixo: {REGRAS} No máximo 5 sugestões de títul. Um nome curto e objetivo. O nome deve ter palavras da remeta a Paulo Freire|
 
 ## 📚 Materiais
